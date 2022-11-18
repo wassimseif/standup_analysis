@@ -5,7 +5,7 @@
 import pytest
 
 
-from standup_comedy_analysis import standup_comedy_analysis
+from standup_comedy_analysis import data_collection
 
 
 @pytest.fixture
